@@ -1,0 +1,16 @@
+{
+    "name": "basicphp/services",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "BasicPHP\\Services\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jarkó Richárd",
+            "email": "jarkoricsi16@gmail.com"
+        }
+    ],
+    "require": {}
+}
