@@ -1,9 +1,9 @@
 {
-    "name": "basicphp/services",
+    "name": "sosoricsi/services",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "BasicPHP\\Services\\": "app/"
+            "SosoRicsi\\Services\\": "app/"
         }
     },
     "authors": [

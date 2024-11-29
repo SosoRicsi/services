@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace BasicPHP\Services;
+namespace SosoRicsi\Services;
 
 class Container 
 {
